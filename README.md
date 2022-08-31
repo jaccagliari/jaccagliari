@@ -1,4 +1,4 @@
-## Estudando para ser uma futura dev! 🌻 
+## Dev em formação! 🌻 
 
  <div>
    <a href="https://github.com/jaccagliari">
